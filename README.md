@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Vladislav 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <h3 align="center">Frontend Developer from Russia 🇷🇺</h3>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=VladislavkaK.visitor-badge&left_color=red&right_color=green) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <!--
 **VladislavkaK/VladislavkaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
